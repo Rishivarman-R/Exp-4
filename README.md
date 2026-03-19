@@ -1,47 +1,50 @@
 # Exp - 4 HOSPITAL MANAGEMENT SYSTEM
 ### Name: RISHIVARMAN R
 ### Reg No: 212224100050
-## AIM:
-## To create UML diagrams for Hospital Management System
-## SRS (Procedure):
+# AIM:
 
-## List of Diagram
-Create the following diagrams in StarUML:
-1) Use Case Diagram
-2) Class Diagram
-3) Activity Diagram
-4) Package Diagram
-5) Communication Diagram
-6) Sequence Diagram
+To study the problem statement, SRS document and draw all the UML diagrams of a Hospital Management System.
 
-## Actors
-1. Patient
-2. Receptionist
-3. Doctor
-4. Nurse
-5. Admin
+# SRS (Procedure):
 
+## Step 1: Problem Identification
 
-## DIAGRAMS:
-### USE CASE DIAGRAM:
-![image](https://github.com/user-attachments/assets/5410b5a5-c1c1-44aa-934a-a5e4689b7fd4)
+Manual hospital record handling causes delays and errors in patient care. The system aims to automate patient registration, appointment scheduling, billing, and report management.
 
-### CLASS DIAGRAM:
-![image](https://github.com/user-attachments/assets/e78bbfc1-d818-412c-bdc9-0abc31122ecd)
+## Step 2: Requirement Analysis
 
-### PACKAGE DIAGRAM:
-![image](https://github.com/user-attachments/assets/41200794-f146-4203-a11a-e0fd4389fe8f)
+Users: Admin, Doctor, Nurse, Receptionist, and Patient.  
+Main Functions: Patient registration, appointment booking, doctor management, billing, medical report handling, and discharge summary.    
+Non-Functional Needs: Security of patient data, reliability, and easy access.    
 
-### COMMUNICATION DIAGRAM:
-![image](https://github.com/user-attachments/assets/148966c2-636a-4eb8-869b-436fb6c9907e)
+## Step 3: System Design
 
-### SEQUENCE DIAGRAM:
-![image](https://github.com/user-attachments/assets/f8e47b40-e768-460a-8e8e-035acdad746a)
+Create UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
+Design database tables for Patients, Doctors, Appointments, Bills, and Reports.  
 
-### ACTIVITY DIAGRAM:
-![image](https://github.com/user-attachments/assets/29a37ddc-aeef-467c-aeac-f5090f9981cb)
+# DIAGRAMS:
+### Usecase Diagram
+<img width="1103" height="906" alt="image" src="https://github.com/user-attachments/assets/deba70b6-8fd9-45e0-bfac-bf6e02898d24" />
+
+### Class Diagram
+<img width="1042" height="823" alt="image" src="https://github.com/user-attachments/assets/afcdeab8-3a3a-41de-a4b0-701ec0bc5e63" />
+
+### Sequence Diagram
+<img width="1227" height="871" alt="image" src="https://github.com/user-attachments/assets/1ee476ce-6825-4b18-be5b-4009f2aaf7a5" />
 
 
-## RESULT:
-Thus, the UML diagrams for Hospital Management System has been created successfully.
+### Activity Diagram
+
+<img width="775" height="972" alt="image" src="https://github.com/user-attachments/assets/70e7ef0e-4f25-41e1-b3a4-bb6eb7a7d96b" />
+
+### Package Diagram
+<img width="1226" height="778" alt="image" src="https://github.com/user-attachments/assets/0238b342-85d1-494b-94b8-45a61c178067" />
+
+
+### Communication Diagram
+<img width="1210" height="847" alt="image" src="https://github.com/user-attachments/assets/fc1be389-837f-406e-b2cb-c76dedd7c958" />
+
+# RESULT:
+Thus the Hospital management system project was executed.
+ms for Hospital Management System has been created successfully.
 
