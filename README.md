@@ -1,7 +1,8 @@
 # Exp - 4 HOSPITAL MANAGEMENT SYSTEM
 ### Name: RISHIVARMAN R
 ### Reg No: 212224100050
-## AIM:To create UML diagrams for Hospital Management System
+## AIM:
+## To create UML diagrams for Hospital Management System
 ## SRS (Procedure):
 
 ## List of Diagram
